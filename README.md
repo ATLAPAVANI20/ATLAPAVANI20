@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm pavani</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atlapavani20&label=Profile%20views&color=0e75b6&style=flat" alt="atlapavani20" /> </p>
-
 - 🔭 I’m currently working on **data scientist**
 
 - 🌱 I’m currently learning **pycaret**
