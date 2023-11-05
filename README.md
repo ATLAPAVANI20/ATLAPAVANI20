@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python,flask,Steamlit**
 
-- 📫 How to reach me **atlapavani1998@gmail.com**
+- 📫 How to reach me **pavaniatla20gmail.com**
 
 - 📄 Know about my experiences [2.5+](2)
 
