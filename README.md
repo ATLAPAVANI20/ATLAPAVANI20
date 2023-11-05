@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **atlapavani1998@gmail.com**
 
-- 📄 Know about my experiences [2](2)
+- 📄 Know about my experiences [2.5+](2)
 
 - ⚡ Fun fact **Helping head**
 
