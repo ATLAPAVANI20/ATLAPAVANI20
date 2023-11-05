@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **data scientist**
 
-- 🌱 I’m currently learning **pycaret**
+- 🌱 I’m currently learning **LLM MODELS**
 
-- 💬 Ask me about **python,flask**
+- 💬 Ask me about **python,flask,Steamlit**
 
 - 📫 How to reach me **atlapavani1998@gmail.com**
 
